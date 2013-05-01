@@ -1,6 +1,11 @@
 #ts_starkers
 An initial directory setup, grunt tasks and default dependencies. Intended as a starting point for building SPAs for [tiddlyspace](http://tiddlyspace.com).
 
+## Prerequisites
+
+* [grunt](http://gruntjs.com): `npm install -g grunt-cli grunt-init`
+* [tsapp](https://github.com/cdent/tsapp.git)
+
 ##Getting Started
 Firstly update the **package.json** file. This includes meta data about your SPA and the grunt dependencies.
 
